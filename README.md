@@ -1,2 +1,2 @@
-# SCP-Sweps
-SCP Sweps designed for gMod. SCP-RP Gamemode
+# Thanks for Checking These Out
+This is a test
